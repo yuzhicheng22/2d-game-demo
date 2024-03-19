@@ -1,15 +1,10 @@
-# oops-game-kit
+# oops-game-kit for 2d-game
 
 ### 介绍
-基于 Oops Framework 提供的游戏项目开发模板，项目中提供了最新版本 Cocos Creator 3.x 插件与游戏资源初始化通用逻辑。
+用于学习cocoskatch的2d游戏开发的项目  
+基于 Oops Framework 框架，框架中提供了最新版本 Cocos Creator 3.x 插件与游戏资源初始化通用逻辑。
 
-### 使用Oops Framework创建游戏模板项目
-1. 下载模板项目
-```
-git clone https://gitee.com/dgflash/oops-game-kit.git
-```
-
-2. 下载框架插件
+### 初始化
 #### windows
 - 执行 update-oops-plugin-framework.bat 克隆与更新框架插件
 - 执行 update-oops-plugin-hot-update.bat 克隆与更新热更新插件
@@ -79,11 +74,3 @@ initialize/view/LoadingViewComp.ts
 ```
 oops.gui.open(UIID.Demo);
 ```
-
-### QQ群
-- 798575969（1群） 
-- 621415300（2群）
-- 628575875（3群）
-
-### QQ频道扫码加入，提供教程，持续更新
-![](http://dgflash.gitee.io/oops-full-stack-web/doc/img/qq.png)
